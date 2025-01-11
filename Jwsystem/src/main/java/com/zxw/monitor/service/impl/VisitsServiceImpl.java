@@ -39,6 +39,7 @@ public class VisitsServiceImpl extends BaseService implements VisitsService {
             visitsMapper.insert(visits);
         }
         //System.out.println("test");
+        //test
     }
 
     @Override
