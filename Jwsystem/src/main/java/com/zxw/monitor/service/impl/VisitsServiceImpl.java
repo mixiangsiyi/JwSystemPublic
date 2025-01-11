@@ -38,7 +38,7 @@ public class VisitsServiceImpl extends BaseService implements VisitsService {
             visits.setDate(localDate.toString());
             visitsMapper.insert(visits);
         }
-        System.out.println("test");
+        //System.out.println("test");
     }
 
     @Override
